@@ -4,6 +4,12 @@ A beginner-level Laravel 12 project implementing a simple **CRUD system** (Creat
 
 ---
 
+## 📸 Run Project Screenshot
+
+![Run Project](screenshots/RUN.png)
+
+---
+
 ## 🚀 Features
 
 - View all posts in a table.
