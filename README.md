@@ -60,7 +60,7 @@ Resource: /posts      --> Full CRUD via PostController
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/omar-abdelrady63/CRUD-Operations-using-PHP-laravel
 
 # Go into project directory
 cd your-repo-name
