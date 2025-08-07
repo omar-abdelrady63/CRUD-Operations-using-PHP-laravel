@@ -63,7 +63,7 @@ Resource: /posts      --> Full CRUD via PostController
 git clone https://github.com/omar-abdelrady63/CRUD-Operations-using-PHP-laravel
 
 # Go into project directory
-cd your-repo-name
+cd CRUD-Operations-using-PHP-laravel
 
 # Install PHP dependencies
 composer install
